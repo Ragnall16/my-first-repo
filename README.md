@@ -5,5 +5,3 @@ NPM: 2306210550
 Kelas: PBP C
 
 Hobi: Baca Novel
-
-Jurusan : Ilmu Komputer
